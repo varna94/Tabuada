@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tabuada</string>
+    <string name="numero">Digite um número:  </string>
+    <string name="soma">+</string>
+    <string name="subtracao">-</string>
+    <string name="mult">OK</string>
+    <string name="div">/</string>
+</resources>
